@@ -1,0 +1,2 @@
+# Headroom local memory store (SQLite caches, session-local)
+.headroom/

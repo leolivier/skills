@@ -1,6 +1,6 @@
 ---
-name: code review (issued )from GitLab Duo MR Review Instructions)
-description: instructions for managing a code reviewed
+name: code-review
+description: Review code changes against this project's standards — CSS/DRY, security, Flask conventions, tests, docs, and CI/CD. Flag approval-gate changes and ask the author to confirm intent before merging.
 ---
 
 # How to Present Feedback
